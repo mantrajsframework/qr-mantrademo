@@ -24,4 +24,4 @@ This simple app implements two basic components:
 
 # About Mantra
 Mantra is the core of a framework to build scalable an higly maintenable applications.
-More info at [https://www.mantrajs.com](Mantra Site).
+More info at [Mantra Site](https://www.mantrajs.com).
