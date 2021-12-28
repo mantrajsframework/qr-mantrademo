@@ -1,0 +1,6 @@
+{
+    "name": "qrmain",
+    "description": "Main component for Mantra QR demo project",
+    "version": "1.0.0",
+    "dependencies": []
+}
