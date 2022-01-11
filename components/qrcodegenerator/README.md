@@ -1,0 +1,3 @@
+# qrcodegenerator
+
+This Mantra components...
