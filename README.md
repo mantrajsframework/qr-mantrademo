@@ -11,7 +11,7 @@ $ mantrad install
 Then, to run it just type:
 
 ```bash
-$ mantra startapp mainapp
+$ mantrad startapp mainapp
 ```
 
 Then, open the browser pointing to http://localhost:8080
