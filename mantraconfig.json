@@ -8,6 +8,7 @@
          "Port": 8080
       }
    },
+   "Injections": [],
    "Port": 8080,
    "ComponentsConfig": {
       "core": {
